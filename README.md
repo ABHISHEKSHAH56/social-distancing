@@ -1,4 +1,4 @@
-# Live-Streaming-using-OpenCV-Flask
+<!-- # Live-Streaming-using-OpenCV-Flask
 A Flask Web-App to stream live from local webcam or CCTV (rtsp link)
 
 ## Use Built-in Webcam of Laptop
@@ -26,4 +26,4 @@ buffer.tobytes()
 ```
 
 ### [Reference](https://blog.miguelgrinberg.com/post/video-streaming-with-flask)
-"# social-distancing" 
+"# social-distancing"  -->
